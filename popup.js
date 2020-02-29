@@ -23,9 +23,6 @@ document.getElementById('clear').addEventListener('click', function(event){
     });
 })
 
-document.addEventListene('click', function(event){
-    console.log(event)
-})
 
 
 function addValue(value){

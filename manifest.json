@@ -1,7 +1,7 @@
 {
-    "name": "Getting Started Example",
+    "name": "Form Assist",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "Helps when filling out multiple forms",
     "permissions": ["storage", "activeTab"],
     "manifest_version": 2,
     "background": {

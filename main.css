@@ -3,5 +3,17 @@ body {
   }
 
 .input {
-    width: 95px
+    width: 9
+    5px
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0
+}
+
+.itemButton {
+    margin-left: 5px;
+    margin-right: 5px;
 }

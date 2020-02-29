@@ -13,9 +13,6 @@ function renderKeyValuePairs(){
         var array = Object.values(data)
         console.log(array)
         var keyValuePair = document.createElement('div');
-        array.forEach(element => {
-            console.log(element)
-        });
     })
 
     
